@@ -9,10 +9,10 @@ const Home = () => {
       items-center justify-center h-full px-4 md:flex-row'>
         <div className='flex flex-col justify-center h-full'>
           <h2 className='text-4xl sm:text7xl font-bold'>
-            I am a bean
+            I am a FullStack developer?
           </h2>
           <p className='py-4 max-w-md'>
-            Blah blah blah blah
+            Just graduated from MSU FullStack Bootcamp!
           </p>
           <div>
             <Link to="portfolio" smooth duration={500} className='text-white w-fit px-6 py-2 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 
